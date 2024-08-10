@@ -1,4 +1,4 @@
-![ASCII Art Header](path/to/saved/ascii-art.svg)
+![ASCII Art Header](./ascii-art.svg)
 
 ## About Me
 - Sriram MK - 19
