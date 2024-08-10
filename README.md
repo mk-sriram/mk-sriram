@@ -12,6 +12,7 @@
 - Sriram MK - 19
 - University of Michigan
 - Computer Science, Electrical Engineering
+- Ann Arbor, Michigan
 
 ## What I'm Building
 - pdf2calendar.com: Convert PDF/Image schedules to Google Calendar in seconds
