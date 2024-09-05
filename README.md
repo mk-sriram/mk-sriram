@@ -16,7 +16,7 @@
 
 ## What I'm Building
 - pdf2calendar.com: Convert PDF/Image schedules to Google Calendar in seconds
-- Mycl: A personal networking app, a hub for your contacts
+- visualnet.work : a way to visualize and monitor your professtional networks
 
 ## Contact me
 - [mksriram.com](https://www.mksriram.com)
